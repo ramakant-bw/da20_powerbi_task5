@@ -1,4 +1,4 @@
-TradeID,UserID,StockID,OrderType,OrderMode,TradeDate,TradeTime,Quantity,PricePerShare,TotalValue,BrokerageFee,Exchange,Sector,TradeStatus,SettlementDate,Currency,StopLoss,TargetPrice,HoldingType
+Trade_ID,User_ID,Stock_ID,Order_Type,Order_Mode,Trade_Date,Trade_Time,Quantity,Price_Per_Share,Total_Value,BrokerageFee,Exchange,Sector,Trade_Status,Settlement_Date,Currency,StopLoss,Target_Price,Holding_Type
 4001,385,142,Sell,StopLoss,02-07-2025,23:07:09,306,1008.04,308460.24,16.83,BSE,Energy,Cancelled,26-08-2024,INR,977.11,1039.82,Delivery
 4002,289,252,Buy,StopLoss,30-12-2024,05:53:37,470,2723.42,1280007.4,26.48,BSE,FMCG,Pending,05-11-2024,INR,2706.05,2772.91,F&O
 4003,454,149,Buy,StopLoss,07-08-2025,05:44:07,927,950.21,880844.67,32.53,BSE,Energy,Pending,17-01-2025,INR,943.96,995.93,F&O

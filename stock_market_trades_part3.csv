@@ -1,4 +1,4 @@
-TradeID,UserID,StockID,OrderType,OrderMode,TradeDate,TradeTime,Quantity,PricePerShare,TotalValue,BrokerageFee,Exchange,Sector,TradeStatus,SettlementDate,Currency,StopLoss,TargetPrice,HoldingType
+Trade_ID,User_ID,Stock_ID,Order_Type,Order_Mode,Trade_Date,Trade_Time,Quantity,Price_Per_Share,Total_Value,BrokerageFee,Exchange,Sector,Trade_Status,Settlement_Date,Currency,StopLoss,Target_Price,Holding_Type
 8001,490,51,Sell,Market,26-05-2025,11:33:48,520,2447.79,1272850.8,49.9,NSE,Banking,Pending,11-06-2025,INR,2408.16,2483.58,F&O
 8002,58,73,Sell,Limit,02-03-2025,18:34:39,843,1249.99,1053741.57,13.52,NSE,Banking,Pending,30-06-2025,INR,1204.52,1257.31,F&O
 8003,57,210,Buy,StopLoss,23-07-2025,22:12:31,396,538.79,213360.84,14.51,BSE,FMCG,Executed,09-04-2025,INR,527.16,544.39,Intraday

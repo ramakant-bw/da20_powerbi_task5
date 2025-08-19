@@ -1,4 +1,4 @@
-TradeID,UserID,StockID,OrderType,OrderMode,TradeDate,TradeTime,Quantity,PricePerShare,TotalValue,BrokerageFee,Exchange,Sector,TradeStatus,SettlementDate,Currency,StopLoss,TargetPrice,HoldingType
+Trade_ID,User_ID,Stock_ID,Order_Type,Order_Mode,Trade_Date,Trade_Time,Quantity,Price_Per_Share,Total_Value,BrokerageFee,Exchange,Sector,Trade_Status,Settlement_Date,Currency,StopLoss,Target_Price,Holding_Type
 1,424,28,Buy,Limit,01-08-2025,12:02:03,840,1416.61,1189952.4,98.39,BSE,IT,Cancelled,11-09-2024,INR,1377.99,1453.28,Intraday
 2,391,223,Sell,Market,25-11-2024,12:14:00,163,4872.61,794235.43,39.56,NSE,Pharma,Executed,25-10-2024,INR,4865.02,4920.02,Delivery
 3,49,171,Sell,StopLoss,02-12-2024,04:48:50,345,4609.11,1590142.95,74.37,NSE,Auto,Pending,02-07-2025,INR,4598.34,4637.65,F&O

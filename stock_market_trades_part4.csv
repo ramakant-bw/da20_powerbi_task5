@@ -1,4 +1,4 @@
-TradeID,UserID,StockID,OrderType,OrderMode,TradeDate,TradeTime,Quantity,PricePerShare,TotalValue,BrokerageFee,Exchange,Sector,TradeStatus,SettlementDate,Currency,StopLoss,TargetPrice,HoldingType
+Trade_ID,User_ID,Stock_ID,Order_Type,Order_Mode,Trade_Date,Trade_Time,Quantity,Price_Per_Share,Total_Value,BrokerageFee,Exchange,Sector,Trade_Status,Settlement_Date,Currency,StopLoss,Target_Price,Holding_Type
 12001,199,5,Buy,StopLoss,25-09-2024,08:35:10,986,2490.72,2455849.92,47.85,NSE,IT,Pending,14-11-2024,INR,2482.16,2538.17,Intraday
 12002,238,2,Buy,StopLoss,01-08-2025,07:05:05,133,3680.85,489553.05,22.77,NSE,Auto,Executed,05-03-2025,INR,3643.02,3712.04,Delivery
 12003,392,162,Buy,Limit,01-10-2024,21:00:01,921,880.71,811133.91,63.23,BSE,FMCG,Executed,12-11-2024,INR,853.75,912.04,Delivery
