@@ -1,0 +1,301 @@
+Stock_ID,Symbol,Company_Name,Sector,Industry,Exchange,ISIN,MarketCap,Face_Value,Dividend_Yield
+1,A2ZINFRA,A2Z Infra Engineering Limited,Auto,Healthcare,NSE,INE2365230660,692196,1,4.35
+2,ABB,ABB India Limited,IT,Healthcare,BSE,INE7359263495,289475,5,0.71
+3,ABAN,Aban Offshore Limited,Auto,Oil & Gas,BSE,INE3547951197,157054,10,0.51
+4,ACEINTEG,Ace Integrated Solutions Limited,FMCG,Finance,NSE,INE1203944397,261772,10,4.25
+5,AAVAS,Aavas Financiers Limited,IT,Healthcare,BSE,INE2143692589,859948,5,0.25
+6,ACCELYA,Accelya Solutions India Limited,FMCG,Software,BSE,INE7761316592,648372,2,1.2
+7,AARTIIND,Aarti Industries Limited,Banking,Finance,BSE,INE7299958752,811704,10,1.87
+8,A2ZINFRA,A2Z Infra Engineering Limited,IT,Software,NSE,INE2424955312,2296,2,0.84
+9,AAKASH,Aakash Exploration Services Limited,IT,Software,BSE,INE3548632600,187576,1,4.5
+10,ABINFRA,A B Infrabuild Limited,Pharma,Finance,BSE,INE4108223197,182587,1,1.69
+11,ACEINTEG,Ace Integrated Solutions Limited,IT,Oil & Gas,NSE,INE4670125640,442244,10,2.54
+12,AAVAS,Aavas Financiers Limited,Auto,Healthcare,BSE,INE6165187497,830965,2,2.81
+13,AMJUMBO,A and M Jumbo Bags Limited,Pharma,Software,NSE,INE1445770717,620025,2,3.95
+14,AMJUMBO,A and M Jumbo Bags Limited,IT,Finance,BSE,INE6914514603,537463,10,2.11
+15,ABAN,Aban Offshore Limited,Energy,Software,BSE,INE4057720108,394125,2,1.52
+16,ACCELYA,Accelya Solutions India Limited,Pharma,Oil & Gas,NSE,INE6822726225,289227,10,1.97
+17,AARVEEDEN,Aarvee Denims & Exports Limited,Pharma,Oil & Gas,BSE,INE3771344278,248964,2,4.43
+18,ACC,ACC Limited,IT,Software,BSE,INE9523366631,273456,5,1.14
+19,AAVAS,Aavas Financiers Limited,FMCG,Healthcare,BSE,INE6346807725,162401,1,2.29
+20,ACC,ACC Limited,Auto,Finance,NSE,INE5777278459,811870,1,1.42
+21,AAVAS,Aavas Financiers Limited,IT,Healthcare,NSE,INE0155447860,487910,1,3.93
+22,ABMINTLTD,ABM International Limited,Pharma,Healthcare,NSE,INE0972945095,860872,2,1.29
+23,ABINFRA,A B Infrabuild Limited,Energy,Manufacturing,NSE,INE3538534306,828026,1,4.8
+24,ABINFRA,A B Infrabuild Limited,IT,Oil & Gas,BSE,INE5240061835,104921,5,1.2
+25,ABB,ABB India Limited,Auto,Oil & Gas,NSE,INE1778739324,35777,1,2.14
+26,ACCURACY,Accuracy Shipping Limited,IT,Oil & Gas,NSE,INE4364882217,263834,2,0.35
+27,AARTIIND,Aarti Industries Limited,IT,Software,BSE,INE7143692011,880651,1,4.97
+28,ACEINTEG,Ace Integrated Solutions Limited,IT,Healthcare,NSE,INE3274659212,371791,1,0.18
+29,AAVAS,Aavas Financiers Limited,IT,Software,NSE,INE6976161983,745689,10,0.13
+30,AARON,Aaron Industries Limited,Pharma,Software,BSE,INE1790336546,893226,1,1.78
+31,AARVI,Aarvi Encon Limited,FMCG,Oil & Gas,BSE,INE1836835913,83931,5,2.45
+32,AARVI,Aarvi Encon Limited,Banking,Healthcare,NSE,INE8481592578,826663,2,4.5
+33,ACC,ACC Limited,IT,Healthcare,NSE,INE8542171347,250768,10,2.14
+34,ACCELYA,Accelya Solutions India Limited,IT,Manufacturing,NSE,INE4514332329,580904,1,0.77
+35,ABINFRA,A B Infrabuild Limited,Banking,Software,BSE,INE8943606295,989344,1,3.64
+36,ACCURACY,Accuracy Shipping Limited,Energy,Manufacturing,NSE,INE3617854611,363269,1,4.82
+37,A2ZINFRA,A2Z Infra Engineering Limited,Auto,Manufacturing,BSE,INE9176355916,255315,10,1.86
+38,POWERINDIA,ABB Power Products and Systems India Limited,FMCG,Finance,BSE,INE2768870610,350415,10,3.78
+39,ABINFRA,A B Infrabuild Limited,Pharma,Oil & Gas,BSE,INE0903695263,814891,2,2.63
+40,AARTIIND,Aarti Industries Limited,Pharma,Manufacturing,NSE,INE5274048976,172472,10,2.98
+41,ABNINT,A B N Intercorp Limited,Auto,Manufacturing,NSE,INE1611337214,454471,5,2.76
+42,AARTIDRUGS,Aarti Drugs Limited,FMCG,Software,BSE,INE2014007347,593269,2,1.82
+43,ABB,ABB India Limited,Energy,Manufacturing,NSE,INE5290852100,716479,2,1.39
+44,ABINFRA,A B Infrabuild Limited,Banking,Software,NSE,INE9198104849,452988,1,3.04
+45,ACCURACY,Accuracy Shipping Limited,Energy,Manufacturing,NSE,INE3366257054,716097,2,1.41
+46,ABINFRA,A B Infrabuild Limited,FMCG,Software,BSE,INE8073895237,54822,5,2.1
+47,ABB,ABB India Limited,Energy,Manufacturing,BSE,INE5074549425,352457,1,1.25
+48,AAKASH,Aakash Exploration Services Limited,FMCG,Oil & Gas,NSE,INE8936236729,922798,10,0.89
+49,AARTIDRUGS,Aarti Drugs Limited,Energy,Healthcare,BSE,INE8510540360,584807,10,4.1
+50,AAVAS,Aavas Financiers Limited,FMCG,Finance,NSE,INE4089188066,43859,1,2.99
+51,AARON,Aaron Industries Limited,IT,Oil & Gas,NSE,INE5319845710,652698,10,1.4
+52,POWERINDIA,ABB Power Products and Systems India Limited,Energy,Oil & Gas,BSE,INE2514189737,660060,1,3.93
+53,ABINFRA,A B Infrabuild Limited,IT,Oil & Gas,NSE,INE5252349721,967718,2,1.19
+54,ACEINTEG,Ace Integrated Solutions Limited,Energy,Oil & Gas,BSE,INE2934665122,641312,2,3.71
+55,ABINFRA,A B Infrabuild Limited,FMCG,Oil & Gas,NSE,INE2964117229,806091,2,3.94
+56,ABAN,Aban Offshore Limited,Energy,Healthcare,BSE,INE9809171344,258449,1,4.33
+57,AARON,Aaron Industries Limited,IT,Healthcare,NSE,INE4541007590,936975,1,0.25
+58,AAVAS,Aavas Financiers Limited,Energy,Finance,BSE,INE5214381752,536207,10,0.17
+59,ACCURACY,Accuracy Shipping Limited,Banking,Software,NSE,INE4729606217,611215,5,1.89
+60,ACC,ACC Limited,FMCG,Finance,NSE,INE9606833753,326277,1,3.31
+61,ABINFRA,A B Infrabuild Limited,Auto,Manufacturing,BSE,INE6517050686,68366,10,2.89
+62,AAVAS,Aavas Financiers Limited,Energy,Manufacturing,NSE,INE6940756108,366491,1,4.14
+63,ACCELYA,Accelya Solutions India Limited,FMCG,Oil & Gas,BSE,INE8960569191,437160,5,2.89
+64,AARON,Aaron Industries Limited,Energy,Healthcare,NSE,INE0411830537,911311,2,1.45
+65,AAKASH,Aakash Exploration Services Limited,Auto,Manufacturing,NSE,INE7956312404,578864,2,2.62
+66,ABAN,Aban Offshore Limited,Pharma,Oil & Gas,BSE,INE3902698771,19680,10,4.97
+67,ABB,ABB India Limited,Energy,Oil & Gas,NSE,INE8558283511,630317,10,1.29
+68,AAKASH,Aakash Exploration Services Limited,FMCG,Manufacturing,BSE,INE7335826236,98492,5,4.54
+69,A2ZINFRA,A2Z Infra Engineering Limited,Auto,Finance,BSE,INE4346058409,359642,2,2.45
+70,ABB,ABB India Limited,FMCG,Finance,NSE,INE6793957320,940689,2,3.11
+71,ACC,ACC Limited,Auto,Software,BSE,INE3756580299,213116,5,2.22
+72,ACCORD,Accord Synergy Limited,IT,Software,BSE,INE4378076270,964712,5,2.6
+73,ABAN,Aban Offshore Limited,Pharma,Manufacturing,BSE,INE0033033582,868236,2,2.19
+74,ACCELYA,Accelya Solutions India Limited,FMCG,Software,NSE,INE1603945929,752133,5,4.93
+75,ABB,ABB India Limited,Pharma,Manufacturing,NSE,INE4406046733,773184,5,1.23
+76,ACEINTEG,Ace Integrated Solutions Limited,Auto,Manufacturing,BSE,INE1164051265,710560,2,1.89
+77,POWERINDIA,ABB Power Products and Systems India Limited,Pharma,Healthcare,BSE,INE6944803156,102339,1,2.4
+78,ABMINTLTD,ABM International Limited,Pharma,Finance,BSE,INE5916834352,96006,5,2.31
+79,ABB,ABB India Limited,Banking,Healthcare,NSE,INE6822074082,272288,10,3.87
+80,ABAN,Aban Offshore Limited,Auto,Manufacturing,NSE,INE1727291845,225716,10,4.06
+81,ACEINTEG,Ace Integrated Solutions Limited,Pharma,Finance,NSE,INE8537678705,202474,10,0.18
+82,POWERINDIA,ABB Power Products and Systems India Limited,IT,Software,NSE,INE4954927748,259003,10,2.62
+83,AAKASH,Aakash Exploration Services Limited,Auto,Healthcare,NSE,INE5593517779,395056,2,2.2
+84,ABAN,Aban Offshore Limited,Banking,Manufacturing,BSE,INE5962820009,879472,5,0.24
+85,AARVEEDEN,Aarvee Denims & Exports Limited,Pharma,Oil & Gas,BSE,INE9616741093,460765,1,4.69
+86,AARVEEDEN,Aarvee Denims & Exports Limited,Pharma,Healthcare,BSE,INE0449022564,912526,5,2.77
+87,AARTIDRUGS,Aarti Drugs Limited,Energy,Manufacturing,NSE,INE4608000826,765209,5,0.78
+88,AARTIIND,Aarti Industries Limited,Auto,Finance,NSE,INE3235986113,284466,10,3.73
+89,AAVAS,Aavas Financiers Limited,Auto,Software,BSE,INE1020924015,505168,10,3.03
+90,POWERINDIA,ABB Power Products and Systems India Limited,Banking,Healthcare,NSE,INE7989061152,203923,5,2.37
+91,ABMINTLTD,ABM International Limited,Energy,Manufacturing,NSE,INE9860793418,941053,1,2.01
+92,ACC,ACC Limited,FMCG,Healthcare,BSE,INE8493477929,502203,10,1.45
+93,ABNINT,A B N Intercorp Limited,Pharma,Oil & Gas,NSE,INE7445377608,656925,10,3.81
+94,AAVAS,Aavas Financiers Limited,Pharma,Manufacturing,NSE,INE8967780435,258649,5,4.37
+95,ACCORD,Accord Synergy Limited,Auto,Oil & Gas,NSE,INE0689657413,272308,5,3.54
+96,AMJUMBO,A and M Jumbo Bags Limited,FMCG,Healthcare,NSE,INE1899350650,435459,5,3.19
+97,ABMINTLTD,ABM International Limited,Energy,Oil & Gas,NSE,INE7093167306,681246,2,1.99
+98,ACCURACY,Accuracy Shipping Limited,Auto,Software,BSE,INE8818376803,501102,2,0.86
+99,ACCURACY,Accuracy Shipping Limited,Energy,Oil & Gas,NSE,INE7265547561,958480,1,3.64
+100,A2ZINFRA,A2Z Infra Engineering Limited,Auto,Software,BSE,INE0011280606,19802,1,1.68
+101,AARTIIND,Aarti Industries Limited,FMCG,Manufacturing,BSE,INE0237920332,324267,1,0.89
+102,ACCURACY,Accuracy Shipping Limited,Energy,Healthcare,BSE,INE5143269641,705566,5,3.54
+103,ABINFRA,A B Infrabuild Limited,Auto,Oil & Gas,BSE,INE9159664942,231772,5,2.45
+104,ABINFRA,A B Infrabuild Limited,Banking,Oil & Gas,NSE,INE7284442189,719859,2,0.33
+105,AARVI,Aarvi Encon Limited,FMCG,Manufacturing,BSE,INE6181167602,973256,5,2.77
+106,ACCELYA,Accelya Solutions India Limited,FMCG,Healthcare,NSE,INE8095238927,825927,1,1.51
+107,A2ZINFRA,A2Z Infra Engineering Limited,IT,Software,NSE,INE5538755993,672944,5,4.44
+108,AARVEEDEN,Aarvee Denims & Exports Limited,Auto,Oil & Gas,BSE,INE5590543974,272475,1,2.98
+109,ACCORD,Accord Synergy Limited,Banking,Oil & Gas,BSE,INE6237290971,565642,1,3.41
+110,ACCELYA,Accelya Solutions India Limited,Banking,Finance,NSE,INE6941304995,5733,10,2.16
+111,AARON,Aaron Industries Limited,Banking,Finance,BSE,INE5306863366,216807,10,4.91
+112,ABAN,Aban Offshore Limited,Auto,Healthcare,BSE,INE2562067999,412705,1,1.9
+113,AARON,Aaron Industries Limited,Auto,Healthcare,BSE,INE5817817324,684119,5,4.51
+114,AARVEEDEN,Aarvee Denims & Exports Limited,IT,Finance,BSE,INE5655311994,765424,5,1.26
+115,POWERINDIA,ABB Power Products and Systems India Limited,FMCG,Manufacturing,NSE,INE4381882100,394303,5,1.98
+116,AARTIDRUGS,Aarti Drugs Limited,IT,Manufacturing,NSE,INE9602708347,510933,10,0.25
+117,AARVEEDEN,Aarvee Denims & Exports Limited,IT,Software,BSE,INE2181354758,250729,10,3.4
+118,AAKASH,Aakash Exploration Services Limited,Energy,Software,NSE,INE6990986793,187435,1,0.24
+119,ABMINTLTD,ABM International Limited,Banking,Software,NSE,INE1887283516,253982,2,0.16
+120,POWERINDIA,ABB Power Products and Systems India Limited,Energy,Software,BSE,INE3515277704,24017,5,0.49
+121,ACEINTEG,Ace Integrated Solutions Limited,Pharma,Healthcare,BSE,INE7132736150,21368,1,0.37
+122,A2ZINFRA,A2Z Infra Engineering Limited,Energy,Finance,NSE,INE6567249306,413814,2,2.61
+123,ACCORD,Accord Synergy Limited,Banking,Software,NSE,INE2171565560,463848,5,3.01
+124,A2ZINFRA,A2Z Infra Engineering Limited,Banking,Healthcare,BSE,INE0978722159,761874,10,3.05
+125,ACCELYA,Accelya Solutions India Limited,Energy,Software,NSE,INE6136203579,480013,2,2.01
+126,ACCORD,Accord Synergy Limited,Pharma,Manufacturing,NSE,INE1398517954,70616,10,1.79
+127,ABB,ABB India Limited,Energy,Manufacturing,BSE,INE7461935473,546376,1,3.46
+128,ACCELYA,Accelya Solutions India Limited,Banking,Finance,BSE,INE4449527677,298746,1,1.95
+129,ABNINT,A B N Intercorp Limited,Pharma,Manufacturing,BSE,INE4259843290,751771,1,2.75
+130,ACCELYA,Accelya Solutions India Limited,Pharma,Healthcare,BSE,INE5145929806,761304,2,0.04
+131,AARVI,Aarvi Encon Limited,Auto,Finance,NSE,INE3632197044,951975,2,3.91
+132,ABB,ABB India Limited,FMCG,Software,BSE,INE2244439178,47814,10,3.99
+133,AMJUMBO,A and M Jumbo Bags Limited,IT,Manufacturing,BSE,INE3439692447,471734,10,3.61
+134,AARVEEDEN,Aarvee Denims & Exports Limited,Energy,Finance,NSE,INE3858269304,135535,5,0.3
+135,AMJUMBO,A and M Jumbo Bags Limited,Pharma,Software,BSE,INE2135490607,781715,2,2.85
+136,ABINFRA,A B Infrabuild Limited,IT,Healthcare,NSE,INE4603219029,527452,5,2.03
+137,AMJUMBO,A and M Jumbo Bags Limited,Energy,Healthcare,NSE,INE3543338767,625908,1,4.2
+138,AAVAS,Aavas Financiers Limited,Pharma,Software,BSE,INE0012558631,225101,10,2.98
+139,ABMINTLTD,ABM International Limited,Energy,Software,BSE,INE8454608173,599234,2,3.71
+140,ABINFRA,A B Infrabuild Limited,Banking,Healthcare,NSE,INE6012672019,500619,10,3.07
+141,AAVAS,Aavas Financiers Limited,FMCG,Oil & Gas,NSE,INE7315993770,333188,10,3.54
+142,ACCELYA,Accelya Solutions India Limited,Auto,Finance,BSE,INE8107407323,949461,10,3.09
+143,ABINFRA,A B Infrabuild Limited,Energy,Software,BSE,INE0301260224,399179,5,3.91
+144,AARVEEDEN,Aarvee Denims & Exports Limited,IT,Software,NSE,INE8426680684,829237,5,1.01
+145,AAVAS,Aavas Financiers Limited,IT,Finance,BSE,INE3246820646,454268,1,0.63
+146,ACCORD,Accord Synergy Limited,Auto,Finance,NSE,INE7887344558,879655,2,4.1
+147,POWERINDIA,ABB Power Products and Systems India Limited,Pharma,Oil & Gas,BSE,INE1210962477,488987,2,2.63
+148,AARVI,Aarvi Encon Limited,FMCG,Healthcare,BSE,INE4659965769,929945,5,3.56
+149,ABNINT,A B N Intercorp Limited,Auto,Finance,BSE,INE2768654139,440652,1,0.88
+150,A2ZINFRA,A2Z Infra Engineering Limited,FMCG,Oil & Gas,NSE,INE6134957345,230257,1,1.58
+151,AARON,Aaron Industries Limited,Energy,Software,NSE,INE4845390554,366348,2,2.02
+152,AARVEEDEN,Aarvee Denims & Exports Limited,Banking,Healthcare,NSE,INE0898943645,670896,1,3.0
+153,ABINFRA,A B Infrabuild Limited,Pharma,Healthcare,BSE,INE8980725803,182625,1,4.0
+154,ACC,ACC Limited,Auto,Manufacturing,NSE,INE5885932617,579390,10,0.0
+155,ABMINTLTD,ABM International Limited,FMCG,Healthcare,NSE,INE3066595347,317482,1,2.12
+156,AARVI,Aarvi Encon Limited,Energy,Finance,BSE,INE7069747105,54323,2,1.89
+157,A2ZINFRA,A2Z Infra Engineering Limited,Auto,Software,NSE,INE0509125019,173707,10,4.27
+158,ABINFRA,A B Infrabuild Limited,FMCG,Software,BSE,INE1234910485,719493,2,1.71
+159,AAKASH,Aakash Exploration Services Limited,Banking,Oil & Gas,NSE,INE6371974891,482834,2,3.95
+160,ABAN,Aban Offshore Limited,Banking,Software,NSE,INE8993886511,614504,1,1.88
+161,ABB,ABB India Limited,Energy,Software,NSE,INE4930489254,775924,5,2.07
+162,POWERINDIA,ABB Power Products and Systems India Limited,Energy,Oil & Gas,NSE,INE5101697917,389080,5,3.85
+163,ABMINTLTD,ABM International Limited,IT,Healthcare,BSE,INE3035969307,488899,10,3.9
+164,AARON,Aaron Industries Limited,Banking,Finance,NSE,INE1013710349,856024,1,3.17
+165,ACCORD,Accord Synergy Limited,Banking,Manufacturing,NSE,INE0424193834,603919,1,1.78
+166,ACCORD,Accord Synergy Limited,IT,Finance,NSE,INE5754812298,921747,5,4.32
+167,AAKASH,Aakash Exploration Services Limited,FMCG,Healthcare,BSE,INE6386543844,607824,2,0.07
+168,AAKASH,Aakash Exploration Services Limited,FMCG,Oil & Gas,BSE,INE7009275541,339416,2,4.23
+169,ABAN,Aban Offshore Limited,FMCG,Oil & Gas,BSE,INE9852388222,248050,2,4.72
+170,AMJUMBO,A and M Jumbo Bags Limited,Banking,Healthcare,BSE,INE1098642784,387274,5,3.48
+171,ACC,ACC Limited,Energy,Finance,NSE,INE2739904656,322270,5,4.07
+172,ACCURACY,Accuracy Shipping Limited,Energy,Software,BSE,INE1696261073,997346,2,3.33
+173,ABINFRA,A B Infrabuild Limited,Auto,Software,BSE,INE8583308651,425775,10,1.64
+174,AAVAS,Aavas Financiers Limited,Auto,Software,BSE,INE1036678191,651991,1,0.13
+175,ACEINTEG,Ace Integrated Solutions Limited,Auto,Manufacturing,NSE,INE1746296355,129060,10,2.49
+176,AARTIDRUGS,Aarti Drugs Limited,Banking,Manufacturing,BSE,INE3881787677,653410,10,3.24
+177,AARTIIND,Aarti Industries Limited,Auto,Finance,BSE,INE2099593383,85533,1,4.96
+178,AARON,Aaron Industries Limited,IT,Manufacturing,BSE,INE4042044969,563247,5,2.09
+179,AMJUMBO,A and M Jumbo Bags Limited,Banking,Healthcare,BSE,INE6390618708,94936,2,4.02
+180,AMJUMBO,A and M Jumbo Bags Limited,Auto,Manufacturing,NSE,INE7522028473,704981,1,2.48
+181,ABAN,Aban Offshore Limited,Pharma,Software,NSE,INE6747651326,364518,2,2.64
+182,AARVEEDEN,Aarvee Denims & Exports Limited,Banking,Manufacturing,BSE,INE3998397212,577431,5,0.12
+183,ACCELYA,Accelya Solutions India Limited,Auto,Software,BSE,INE7622906854,294473,10,2.13
+184,ACCURACY,Accuracy Shipping Limited,Energy,Healthcare,NSE,INE5782161770,960123,1,0.8
+185,AMJUMBO,A and M Jumbo Bags Limited,Pharma,Manufacturing,NSE,INE0969396529,730402,5,0.66
+186,AARVI,Aarvi Encon Limited,IT,Oil & Gas,BSE,INE3453010510,733805,10,3.85
+187,ABINFRA,A B Infrabuild Limited,Pharma,Software,NSE,INE6431890864,344336,10,4.27
+188,ABNINT,A B N Intercorp Limited,Banking,Finance,BSE,INE2281415516,114641,10,1.01
+189,ABB,ABB India Limited,FMCG,Software,NSE,INE2980846421,650235,1,1.22
+190,ABMINTLTD,ABM International Limited,FMCG,Software,BSE,INE1516114522,75202,1,1.5
+191,ACEINTEG,Ace Integrated Solutions Limited,Auto,Oil & Gas,BSE,INE8810553725,581531,10,2.52
+192,ACC,ACC Limited,IT,Manufacturing,NSE,INE8690334480,901615,2,0.14
+193,AAVAS,Aavas Financiers Limited,FMCG,Oil & Gas,NSE,INE1116426105,800781,10,3.54
+194,ABB,ABB India Limited,Pharma,Finance,BSE,INE3715305569,776207,1,4.74
+195,AAKASH,Aakash Exploration Services Limited,FMCG,Manufacturing,NSE,INE2015229509,867693,2,3.67
+196,AARVEEDEN,Aarvee Denims & Exports Limited,FMCG,Healthcare,BSE,INE6258276069,212627,10,2.61
+197,ABAN,Aban Offshore Limited,FMCG,Finance,NSE,INE1215126750,332177,10,2.32
+198,AAVAS,Aavas Financiers Limited,IT,Manufacturing,BSE,INE9740165534,750292,1,1.12
+199,ACC,ACC Limited,IT,Oil & Gas,BSE,INE9328306845,331923,10,0.29
+200,AAKASH,Aakash Exploration Services Limited,Pharma,Finance,NSE,INE5266380103,972437,2,3.14
+201,AAKASH,Aakash Exploration Services Limited,Pharma,Software,BSE,INE9227733662,884084,1,4.43
+202,A2ZINFRA,A2Z Infra Engineering Limited,Energy,Oil & Gas,NSE,INE9823972738,513501,2,4.16
+203,ABAN,Aban Offshore Limited,Auto,Oil & Gas,BSE,INE7162265224,303620,1,4.61
+204,AAVAS,Aavas Financiers Limited,IT,Finance,BSE,INE6823163738,483770,1,1.11
+205,A2ZINFRA,A2Z Infra Engineering Limited,Auto,Software,BSE,INE6110762142,926163,1,3.97
+206,AARVI,Aarvi Encon Limited,Auto,Healthcare,BSE,INE9293757959,50572,5,2.43
+207,ABINFRA,A B Infrabuild Limited,Energy,Healthcare,NSE,INE2904650677,3991,1,4.23
+208,POWERINDIA,ABB Power Products and Systems India Limited,IT,Software,BSE,INE9484382384,206651,5,2.96
+209,AAVAS,Aavas Financiers Limited,Energy,Healthcare,BSE,INE4979333718,633390,1,0.7
+210,ACC,ACC Limited,Energy,Finance,NSE,INE4330507431,935029,5,4.61
+211,ABNINT,A B N Intercorp Limited,IT,Oil & Gas,BSE,INE1955056083,165764,1,2.78
+212,ABNINT,A B N Intercorp Limited,Auto,Manufacturing,NSE,INE3060002670,508864,2,0.93
+213,AARON,Aaron Industries Limited,Energy,Oil & Gas,BSE,INE1246163228,686748,1,4.6
+214,AAVAS,Aavas Financiers Limited,Pharma,Healthcare,BSE,INE9358155860,268160,1,4.52
+215,AARTIDRUGS,Aarti Drugs Limited,Auto,Finance,NSE,INE1651219363,628088,2,2.67
+216,ABAN,Aban Offshore Limited,Pharma,Software,NSE,INE9589204646,442185,10,1.87
+217,ABAN,Aban Offshore Limited,Auto,Finance,BSE,INE8275684308,129301,5,1.1
+218,ABNINT,A B N Intercorp Limited,Pharma,Manufacturing,BSE,INE7638749109,118236,10,2.69
+219,ABB,ABB India Limited,IT,Finance,BSE,INE8734286944,122680,1,4.16
+220,AAKASH,Aakash Exploration Services Limited,Auto,Healthcare,BSE,INE1088456143,505743,10,3.39
+221,AARVI,Aarvi Encon Limited,IT,Oil & Gas,BSE,INE6196225078,506333,5,4.58
+222,AAVAS,Aavas Financiers Limited,Auto,Software,BSE,INE8717347060,897751,2,4.49
+223,AARVEEDEN,Aarvee Denims & Exports Limited,Auto,Healthcare,NSE,INE7298875307,632530,5,3.23
+224,AARTIDRUGS,Aarti Drugs Limited,Energy,Finance,NSE,INE9077460832,52529,5,3.66
+225,AARVI,Aarvi Encon Limited,IT,Oil & Gas,BSE,INE7510800734,905728,2,1.09
+226,AARTIDRUGS,Aarti Drugs Limited,Banking,Finance,NSE,INE9847159163,178303,10,4.68
+227,AARVI,Aarvi Encon Limited,FMCG,Oil & Gas,BSE,INE1149446799,97517,5,0.03
+228,AMJUMBO,A and M Jumbo Bags Limited,Energy,Software,NSE,INE2644602482,35173,10,4.02
+229,POWERINDIA,ABB Power Products and Systems India Limited,FMCG,Finance,NSE,INE4178275957,987732,10,0.57
+230,AARTIDRUGS,Aarti Drugs Limited,IT,Healthcare,NSE,INE1837691095,776912,2,0.85
+231,AARVI,Aarvi Encon Limited,FMCG,Software,NSE,INE0702609160,483341,1,2.75
+232,AARVI,Aarvi Encon Limited,FMCG,Finance,BSE,INE2998345612,481493,2,0.36
+233,ABMINTLTD,ABM International Limited,IT,Manufacturing,BSE,INE4181658906,760834,2,0.92
+234,ABAN,Aban Offshore Limited,Banking,Finance,NSE,INE8065378658,564644,10,0.2
+235,ABINFRA,A B Infrabuild Limited,Pharma,Manufacturing,NSE,INE6144356317,354880,1,2.33
+236,ACEINTEG,Ace Integrated Solutions Limited,Auto,Manufacturing,BSE,INE3178685121,370398,5,4.3
+237,AARVI,Aarvi Encon Limited,Auto,Software,BSE,INE3171212435,725257,1,3.94
+238,AARON,Aaron Industries Limited,FMCG,Healthcare,NSE,INE2459806566,346365,5,2.05
+239,ACCURACY,Accuracy Shipping Limited,Energy,Oil & Gas,NSE,INE2902227605,890826,2,1.36
+240,AARTIDRUGS,Aarti Drugs Limited,Banking,Manufacturing,NSE,INE1128895746,811773,2,1.84
+241,AMJUMBO,A and M Jumbo Bags Limited,Pharma,Oil & Gas,BSE,INE1587054012,22392,5,0.99
+242,ACEINTEG,Ace Integrated Solutions Limited,Pharma,Healthcare,BSE,INE9999390150,834651,10,2.45
+243,POWERINDIA,ABB Power Products and Systems India Limited,FMCG,Software,BSE,INE3214874340,934567,1,2.37
+244,POWERINDIA,ABB Power Products and Systems India Limited,Pharma,Finance,BSE,INE7505678901,204109,10,0.1
+245,AAKASH,Aakash Exploration Services Limited,Banking,Manufacturing,NSE,INE1418051640,894483,2,2.92
+246,ABMINTLTD,ABM International Limited,Pharma,Oil & Gas,BSE,INE5044401372,253343,5,3.91
+247,ABB,ABB India Limited,Auto,Finance,NSE,INE5315664939,118894,2,3.31
+248,AMJUMBO,A and M Jumbo Bags Limited,Pharma,Manufacturing,NSE,INE1915255012,925985,10,1.39
+249,AARTIIND,Aarti Industries Limited,Energy,Software,BSE,INE9463523234,504829,2,3.0
+250,ABNINT,A B N Intercorp Limited,Energy,Finance,BSE,INE7996582108,648525,1,2.16
+251,ABAN,Aban Offshore Limited,Energy,Finance,BSE,INE5044862911,930953,10,4.77
+252,ACCURACY,Accuracy Shipping Limited,FMCG,Healthcare,BSE,INE9199406149,175388,10,1.17
+253,A2ZINFRA,A2Z Infra Engineering Limited,IT,Software,BSE,INE9830686893,204786,5,2.46
+254,ACCELYA,Accelya Solutions India Limited,Auto,Software,BSE,INE8984523458,666753,1,1.4
+255,AAKASH,Aakash Exploration Services Limited,IT,Healthcare,BSE,INE1810521539,732224,2,0.07
+256,AARVI,Aarvi Encon Limited,Energy,Oil & Gas,BSE,INE9139161654,978003,2,1.62
+257,AARVEEDEN,Aarvee Denims & Exports Limited,Banking,Oil & Gas,BSE,INE1634161072,546252,5,0.95
+258,AARVEEDEN,Aarvee Denims & Exports Limited,IT,Oil & Gas,NSE,INE9878738115,77678,1,0.22
+259,ACC,ACC Limited,Auto,Manufacturing,NSE,INE9875251505,698623,5,0.87
+260,AARVEEDEN,Aarvee Denims & Exports Limited,Banking,Finance,BSE,INE6646871731,888668,1,3.64
+261,AAVAS,Aavas Financiers Limited,Banking,Software,NSE,INE8604353643,754878,10,4.45
+262,AARVI,Aarvi Encon Limited,IT,Oil & Gas,NSE,INE8207934556,885066,5,0.75
+263,AARON,Aaron Industries Limited,Auto,Manufacturing,BSE,INE4179168689,395160,5,4.32
+264,ACCURACY,Accuracy Shipping Limited,Energy,Oil & Gas,BSE,INE4668290314,416168,1,2.32
+265,ABAN,Aban Offshore Limited,Energy,Healthcare,BSE,INE0424079954,960504,10,0.93
+266,AARVEEDEN,Aarvee Denims & Exports Limited,IT,Oil & Gas,NSE,INE8273017343,196754,5,4.08
+267,ACCORD,Accord Synergy Limited,FMCG,Manufacturing,NSE,INE8714663704,953110,2,0.55
+268,ACC,ACC Limited,Banking,Healthcare,NSE,INE6283555686,543044,1,2.43
+269,ABMINTLTD,ABM International Limited,Pharma,Software,BSE,INE3325105928,446624,10,0.39
+270,AAKASH,Aakash Exploration Services Limited,Energy,Software,NSE,INE6412848739,523548,10,0.13
+271,AARTIIND,Aarti Industries Limited,FMCG,Finance,BSE,INE3505804262,958161,2,0.89
+272,ACC,ACC Limited,IT,Finance,BSE,INE6133173844,78254,2,2.92
+273,ACCURACY,Accuracy Shipping Limited,Auto,Oil & Gas,NSE,INE5885003299,38517,10,3.46
+274,ABB,ABB India Limited,IT,Finance,BSE,INE2527680752,613336,1,4.73
+275,A2ZINFRA,A2Z Infra Engineering Limited,Auto,Healthcare,BSE,INE9810842942,98219,2,0.73
+276,AAKASH,Aakash Exploration Services Limited,Auto,Manufacturing,BSE,INE9734292637,294222,1,4.43
+277,ACC,ACC Limited,FMCG,Finance,NSE,INE3672987323,981421,1,1.4
+278,AARTIIND,Aarti Industries Limited,IT,Manufacturing,NSE,INE4249353625,928945,2,4.25
+279,POWERINDIA,ABB Power Products and Systems India Limited,Energy,Finance,NSE,INE0521960224,40518,1,0.55
+280,AARVEEDEN,Aarvee Denims & Exports Limited,Energy,Finance,BSE,INE9260033666,251707,2,2.14
+281,ACCURACY,Accuracy Shipping Limited,Energy,Finance,NSE,INE2373020175,939057,2,1.8
+282,ACCORD,Accord Synergy Limited,Banking,Manufacturing,BSE,INE0114567026,795823,1,2.24
+283,ABNINT,A B N Intercorp Limited,Pharma,Finance,BSE,INE0862644764,990792,2,3.95
+284,AAVAS,Aavas Financiers Limited,Pharma,Oil & Gas,NSE,INE4007724476,184485,2,2.51
+285,ACCURACY,Accuracy Shipping Limited,Banking,Software,BSE,INE2354247032,468390,1,1.9
+286,ABNINT,A B N Intercorp Limited,Pharma,Oil & Gas,BSE,INE7317246213,716613,1,0.43
+287,ACCURACY,Accuracy Shipping Limited,Auto,Finance,NSE,INE6382662316,580766,2,0.01
+288,AAVAS,Aavas Financiers Limited,Auto,Finance,NSE,INE6677640833,700873,1,2.2
+289,ACCELYA,Accelya Solutions India Limited,Pharma,Software,NSE,INE0752999192,193861,10,0.19
+290,POWERINDIA,ABB Power Products and Systems India Limited,Auto,Healthcare,NSE,INE8067755741,846706,10,3.55
+291,ABNINT,A B N Intercorp Limited,Auto,Finance,NSE,INE2963781543,225673,5,1.9
+292,ACCELYA,Accelya Solutions India Limited,Banking,Manufacturing,NSE,INE6331029868,812929,5,2.67
+293,ABINFRA,A B Infrabuild Limited,Auto,Software,NSE,INE5716290749,194166,10,3.28
+294,AAKASH,Aakash Exploration Services Limited,IT,Oil & Gas,BSE,INE7590072321,92733,5,4.82
+295,ABB,ABB India Limited,Energy,Finance,BSE,INE3957923582,209403,5,1.6
+296,AARVEEDEN,Aarvee Denims & Exports Limited,FMCG,Healthcare,NSE,INE5453648182,463252,10,3.79
+297,AARVEEDEN,Aarvee Denims & Exports Limited,Pharma,Healthcare,BSE,INE3620252221,627055,1,0.99
+298,ABMINTLTD,ABM International Limited,Energy,Oil & Gas,NSE,INE6860269404,452974,1,0.28
+299,AARTIDRUGS,Aarti Drugs Limited,Auto,Finance,NSE,INE0368786409,192783,10,2.0
+300,ABINFRA,A B Infrabuild Limited,Energy,Software,BSE,INE9692679558,921709,10,4.75
